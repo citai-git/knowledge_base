@@ -101,12 +101,27 @@ https://proceedings.neurips.cc/paper/2020/hash/3b13b1eb44b05f57735764786fab9c2c-
 - #### Graph Meta Learning via Local Subgraphs
 https://proceedings.neurips.cc/paper/2020/hash/412604be30f701b1b1e3124c252065e6-Abstract.html
 
+- #### Bandit Samplers for Training Graph Neural Networks
+
+https://proceedings.neurips.cc/paper/2020/hash/4cea2358d3cc5f8cd32397ca9bc51b94-Abstract.html
+
+-  #### Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian
+https://proceedings.neurips.cc/paper/2020/hash/54391c872fe1c8b4f98095c5d6ec7ec7-Abstract.html
+
+- #### Graph Geometry Interaction Learning
+
+https://proceedings.neurips.cc/paper/2020/hash/551fdbb810aff145c114b93867dd8bfd-Abstract.html
+
 ### Transfer learning
 
  - #### A Combinatorial Perspective on Transfer Learning
  https://proceedings.neurips.cc/paper/2020/hash/0a3b6f64f0523984e51323fe53b8c504-Abstract.html
  - #### What is being transferred in transfer learning?
  https://proceedings.neurips.cc/paper/2020/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html
+
+- #### On the Theory of Transfer Learning: The Importance of Task Diversity
+
+https://proceedings.neurips.cc/paper/2020/hash/59587bffec1c7846f3e34230141556ae-Abstract.html
 
 ### Reinforcement learning
 
@@ -142,12 +157,19 @@ https://proceedings.neurips.cc/paper/2020/hash/43a7c24e2d1fe375ce60d84ac901819f-
 
 https://proceedings.neurips.cc/paper/2020/hash/24f2f931f12a4d9149876a5bef93e96a-Abstract.html
 
+- #### ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping
+
+https://proceedings.neurips.cc/paper/2020/hash/56f9f88906aebf4ad985aaec7fa01313-Abstract.html
+
 - #### Self-Supervised Relational Reasoning for Representation Learning
 https://proceedings.neurips.cc/paper/2020/hash/29539ed932d32f1c56324cded92c07c2-Abstract.html
 
 - #### Unsupervised Learning of Dense Visual Representations 
 
 https://proceedings.neurips.cc/paper/2020/hash/3000311ca56a1cb93397bc676c0b7fff-Abstract.html
+
+- #### Neural Star Domain as Primitive Representation
+https://proceedings.neurips.cc/paper/2020/hash/59a3adea76fadcb6dd9e54c96fc155d1-Abstract.html
 
 ### Attention, transformers and language
 
@@ -157,3 +179,26 @@ https://proceedings.neurips.cc/paper/2020/hash/103303dd56a731e377d01f6a37badae3-
 
 - #### MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers
  https://proceedings.neurips.cc/paper/2020/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html
+
+- #### Towards Interpretable Natural Language Understanding with Explanations as Latent Variables
+
+https://proceedings.neurips.cc/paper/2020/hash/4be2c8f27b8a420492f2d44463933eb6-Abstract.html
+
+- #### Hierarchical Poset Decoding for Compositional Generalization in Language
+https://proceedings.neurips.cc/paper/2020/hash/4d7e0d72898ae7ea3593eb5ebf20c744-Abstract.html
+
+
+### Brain, learning
+
+- #### Attention-Gated Brain Propagation: How the brain can implement reward-based error backpropagation 
+
+https://proceedings.neurips.cc/paper/2020/hash/1abb1e1ea5f481b589da52303b091cbb-Abstract.html
+
+- #### Inferring learning rules from animal decision-making
+
+https://proceedings.neurips.cc/paper/2020/hash/234b941e88b755b7a72a1c1dd5022f30-Abstract.html
+
+- #### Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE
+
+https://proceedings.neurips.cc/paper/2020/hash/510f2318f324cf07fce24c3a4b89c771-Abstract.html
+

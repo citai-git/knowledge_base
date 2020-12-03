@@ -107,3 +107,53 @@ https://proceedings.neurips.cc/paper/2020/hash/412604be30f701b1b1e3124c252065e6-
  https://proceedings.neurips.cc/paper/2020/hash/0a3b6f64f0523984e51323fe53b8c504-Abstract.html
  - #### What is being transferred in transfer learning?
  https://proceedings.neurips.cc/paper/2020/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html
+
+### Reinforcement learning
+
+ - #### Reinforcement Learning with Combinatorial Actions: An Application to Vehicle Routing
+ 
+ https://proceedings.neurips.cc/paper/2020/hash/06a9d51e04213572ef0720dd27a84792-Abstract.html
+
+- #### A Unifying View of Optimism in Episodic Reinforcement Learning
+
+https://proceedings.neurips.cc/paper/2020/hash/0f0e13216262f4a201bec128044dd30f-Abstract.html
+
+- #### Reinforcement Learning for Control with Multiple Frequencies
+https://proceedings.neurips.cc/paper/2020/hash/216f44e2d28d4e175a194492bde9148f-Abstract.html
+
+- #### Multi-Task Reinforcement Learning with Soft Modularization
+
+https://proceedings.neurips.cc/paper/2020/hash/32cfdce9631d8c7906e8e9d6e68b514b-Abstract.html
+
+- #### Neurosymbolic Reinforcement Learning with Formally Verified Exploration
+https://proceedings.neurips.cc/paper/2020/hash/448d5eda79895153938a8431919f4c9f-Abstract.html
+
+### Objects
+
+ - #### Learning About Objects by Learning to Interact with Them
+ https://proceedings.neurips.cc/paper/2020/hash/291597a100aadd814d197af4f4bab3a7-Abstract.html
+
+- #### Continuous Object Representation Networks: Novel View Synthesis without Target View Supervision
+https://proceedings.neurips.cc/paper/2020/hash/43a7c24e2d1fe375ce60d84ac901819f-Abstract.html
+
+### Representations
+
+- #### Learning Disentangled Representations of Videos with Missing Data
+
+https://proceedings.neurips.cc/paper/2020/hash/24f2f931f12a4d9149876a5bef93e96a-Abstract.html
+
+- #### Self-Supervised Relational Reasoning for Representation Learning
+https://proceedings.neurips.cc/paper/2020/hash/29539ed932d32f1c56324cded92c07c2-Abstract.html
+
+- #### Unsupervised Learning of Dense Visual Representations 
+
+https://proceedings.neurips.cc/paper/2020/hash/3000311ca56a1cb93397bc676c0b7fff-Abstract.html
+
+### Attention, transformers and language
+
+- #### Auto Learning Attention 
+
+https://proceedings.neurips.cc/paper/2020/hash/103303dd56a731e377d01f6a37badae3-Abstract.html
+
+- #### MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers
+ https://proceedings.neurips.cc/paper/2020/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html

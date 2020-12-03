@@ -1,4 +1,5 @@
 
+
 # Welcome to CitAI Papers knowledge base
 
 ##### Table of Contents  
@@ -9,7 +10,8 @@
 [Reinforcement learning](#rl) \
 [Deep learning](#dl) \
 [Medical imagining](#medical) \
-[Statistics](#stats) 
+[Statistics](#stats) \
+[Neurips](#stats) 
     
 
 
@@ -53,3 +55,55 @@
 <a name="stats"/>
 
 ## Statistics
+
+
+<a name="neurips2020"/>
+
+## NEURIPS 2020 papers
+
+### Graphs
+    
+
+ - #### CASTLE: Regularization via Auxiliary Causal Graph Discovery
+ https://proceedings.neurips.cc/paper/2020/hash/1068bceb19323fe72b2b344ccf85c254-Abstract.html
+ - #### Graphon Neural Networks and the Transferability of Graph Neural Networks
+https://proceedings.neurips.cc/paper/2020/hash/12bcd658ef0a540cabc36cdf2b1046fd-Abstract.html
+- ####   Pointer graph networks 
+https://proceedings.neurips.cc/paper/2020/hash/176bf6219855a6eb1f3a30903e34b6fb-Abstract.html
+- #### Multimodal Graph Networks for Compositional Generalization in Visual Question Answering
+https://proceedings.neurips.cc/paper/2020/hash/1fd6c4e41e2c6a6b092eb13ee72bce95-Abstract.html
+
+- #### Learning Dynamic Belief Graphs to Generalize on Text-Based Games
+https://proceedings.neurips.cc/paper/2020/hash/1fc30b9d4319760b04fab735fbfed9a9-Abstract.html
+
+- #### Learning Graph Structure With A Finite-State Automaton Layer
+https://proceedings.neurips.cc/paper/2020/hash/1fdc0ee9d95c71d73df82ac8f0721459-Abstract.html
+
+- #### A Graph Similarity for Deep Learning 
+https://proceedings.neurips.cc/paper/2020/file/0004d0b59e19461ff126e3a08a814c33-Paper.pdf
+
+- #### Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs
+https://proceedings.neurips.cc/paper/2020/hash/217eedd1ba8c592db97d0dbe54c7adfc-Abstract.html
+
+- #### How hard is to distinguish graphs with graph neural networks?
+https://proceedings.neurips.cc/paper/2020/hash/23685a2431acad7789c1e3d43ea1522c-Abstract.html
+
+- #### Natural Graph Networks
+https://proceedings.neurips.cc/paper/2020/hash/2517756c5a9be6ac007fe9bb7fb92611-Abstract.html
+
+- #### Towards Deeper Graph Neural Networks with Differentiable Group Normalization
+
+https://proceedings.neurips.cc/paper/2020/hash/33dd6dba1d56e826aac1cbf23cdcca87-Abstract.html
+
+- #### Towards practical differentially private causal graph discovery
+https://proceedings.neurips.cc/paper/2020/hash/3b13b1eb44b05f57735764786fab9c2c-Abstract.html
+
+- #### Graph Meta Learning via Local Subgraphs
+https://proceedings.neurips.cc/paper/2020/hash/412604be30f701b1b1e3124c252065e6-Abstract.html
+
+### Transfer learning
+
+ - #### A Combinatorial Perspective on Transfer Learning
+ https://proceedings.neurips.cc/paper/2020/hash/0a3b6f64f0523984e51323fe53b8c504-Abstract.html
+ - #### What is being transferred in transfer learning?
+ https://proceedings.neurips.cc/paper/2020/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html

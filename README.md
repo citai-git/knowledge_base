@@ -14,7 +14,7 @@
 
 [Maths resources](#maths) \
 ​	[Category theory](#category-theory) \
-​	[Groups & grouplike structures](#groups-&-grouplike-structures)
+​	[Grouplike structures](#grouplike-structures)
 
 
 [Neurips2020](#neurips2020)
@@ -111,8 +111,8 @@
 
 
 
-<a name="groups-&-grouplike-structures"/>
-### Groups & grouplike structures
+<a name="grouplike-structures"/>
+### Grouplike structures
 
 
 

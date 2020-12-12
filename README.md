@@ -8,7 +8,7 @@
 [Free Energy principle](#free-energy-principle)  \
 [Medical imaging](#medical-imaging) \
 [Reinforcement learning](#reinforcement-learning) \
-[Representation learning](representation-learning) \
+[Representation learning](#representation-learning) \
 [Statistical methods in AI](#statistical-methods-in-ai)
 
 

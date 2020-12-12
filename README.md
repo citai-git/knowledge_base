@@ -1,19 +1,5 @@
 # Welcome to the CitAI knowledge base
 
-<<<<<<< Updated upstream
-# Welcome to CitAI Papers knowledge base
-
-##### Table of Contents  
-[FEP](#fep)  \
-[Associative learning](#assoclearn) \
-[AGI](#agi) \
-[Category theory](#cat) \
-[Reinforcement learning](#rl) \
-[Deep learning](#dl) \
-[Medical imagining](#medical) \
-[Statistics](#stats) 
-    
-=======
 ## Table of Contents  
 [Artificial general intelligence](#artificial-general-intelligence) \
 [Associative learning](#associative-learning) \
@@ -29,7 +15,6 @@
 [Maths resources](#maths) \
 ​	[Category theory](#category-theory) \
 ​	[Groups & grouplike structures](#groups-&-grouplike-structures) \
->>>>>>> Stashed changes
 
 
 [Neurips2020](#neurips2020) \
@@ -86,12 +71,6 @@
 ## Medical imagining
 
 
-<<<<<<< Updated upstream
-## Statistics
-=======
-
-
-
 
 
 <a name="reinforcement-learning"/>
@@ -117,12 +96,6 @@
 
 
 
-<a name="statistical-methods-in-ai"/>
-## Statistical methods in AI
-
-
-
-
 
 <a name="maths"/>
 ## Maths
@@ -140,7 +113,6 @@
 
 <a name="groups-&-grouplike-structures"/>
 ### Groups & grouplike structures
-
 
 
 
@@ -279,4 +251,3 @@
 - #### [Deep Structural Causal Models for Tractable Counterfactual Inference](https://proceedings.neurips.cc/paper/2020/hash/0987b8b338d6c90bbedd8631bc499221-Abstract.html) *Nick Pawlowski, Daniel Coelho de Castro, Ben Glocker*
 
 - #### [Better Set Representations For Relational Reasoning](https://proceedings.neurips.cc/paper/2020/hash/09ccf3183d9e90e5ae1f425d5f9b2c00-Abstract.html) *Qian Huang, Horace He, Abhay Singh, Yan Zhang, Ser Nam Lim, Austin R. Benson*
->>>>>>> Stashed changes

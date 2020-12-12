@@ -9,15 +9,15 @@
 [Medical imaging](#medical-imaging) \
 [Reinforcement learning](#reinforcement-learning) \
 [Representation learning](representation-learning) \
-[Statistical methods in AI](#statistical-methods-in-ai) \
+[Statistical methods in AI](#statistical-methods-in-ai)
 
 
 [Maths resources](#maths) \
 ​	[Category theory](#category-theory) \
-​	[Groups & grouplike structures](#groups-&-grouplike-structures) \
+​	[Groups & grouplike structures](#groups-&-grouplike-structures)
 
 
-[Neurips2020](#neurips2020) \
+[Neurips2020](#neurips2020)
 
 
 <a name="artificial-general-intelligence"/>

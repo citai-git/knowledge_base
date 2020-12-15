@@ -131,3 +131,73 @@
 - #### [Deep Structural Causal Models for Tractable Counterfactual Inference](https://proceedings.neurips.cc/paper/2020/hash/0987b8b338d6c90bbedd8631bc499221-Abstract.html) *Nick Pawlowski, Daniel Coelho de Castro, Ben Glocker*
 
 - #### [Better Set Representations For Relational Reasoning](https://proceedings.neurips.cc/paper/2020/hash/09ccf3183d9e90e5ae1f425d5f9b2c00-Abstract.html) *Qian Huang, Horace He, Abhay Singh, Yan Zhang, Ser Nam Lim, Austin R. Benson*
+
+[Model-Based Multi-Agent RL in Zero-Sum Markov Games with Near-Optimal Sample Complexity](https://proceedings.neurips.cc/paper/2020/hash/0cc6ee01c82fc49c28706e0918f57e2d-Abstract.html) _Kaiqing Zhang, Sham Kakade, Tamer Basar, Lin Yang_
+
+- #### [Understanding Deep Architecture with Reasoning Layer](https://proceedings.neurips.cc/paper/2020/hash/0d82627e10660af39ea7eb69c3568955-Abstract.html) _Xinshi Chen, Yufei Zhang, Christoph Reisinger, Le Song_
+  
+- #### [A Game Theoretic Analysis of Additive Adversarial Attacks and Defenses](https://proceedings.neurips.cc/paper/2020/hash/0ea6f098a59fcf2462afc50d130ff034-Abstract.html) _Ambar Pal, Rene Vidal_
+  
+- #### [Recurrent Quantum Neural Networks](https://proceedings.neurips.cc/paper/2020/hash/0ec96be397dd6d3cf2fecb4a2d627c1c-Abstract.html) _Johannes Bausch_
+  
+- #### [No-Regret Learning and Mixed Nash Equilibria: They Do Not Mix](https://proceedings.neurips.cc/paper/2020/hash/0ed9422357395a0d4879191c66f4faa2-Abstract.html) _Emmanouil-Vasileios Vlatakis-Gkaragkounis, Lampros Flokas, Thanasis Lianeas, Panayotis Mertikopoulos, Georgios Piliouras_
+  
+- #### [Ultrahyperbolic Representation Learning](https://proceedings.neurips.cc/paper/2020/hash/123b7f02433572a0a560e620311a469c-Abstract.html) _Marc Law, Jos Stam_
+  
+- #### [Network Diffusions via Neural Mean-Field Dynamics](https://proceedings.neurips.cc/paper/2020/hash/1730f69e6f66d5f0c741799e82351f81-Abstract.html) _Shushan He, Hongyuan Zha, Xiaojing Ye_
+
+- #### [Dissecting Neural ODEs](https://proceedings.neurips.cc/paper/2020/hash/293835c2cc75b585649498ee74b395f5-Abstract.html) _Stefano Massaroli, Michael Poli, Jinkyoo Park, Atsushi Yamashita, Hajime Asama_
+
+- #### [MDP Homomorphic Networks: Group Symmetries in Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/2be5f9c2e3620eb73c2972d7552b6cb5-Abstract.html) _Elise van der Pol, Daniel Worrall, Herke van Hoof, Frans Oliehoek, Max Welling_
+
+- #### [How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods](https://proceedings.neurips.cc/paper/2020/hash/2c29d89cc56cdb191c60db2f0bae796b-Abstract.html) _Jeya Vikranth Jeyakumar, Joseph Noor, Yu-Hsi Cheng, Luis Garcia, Mani Srivastava_
+
+- #### [Munchausen Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/2c6a0bae0f071cbbf0bb3d5b11d90a82-Abstract.html) _Nino Vieillard, Olivier Pietquin, Matthieu Geist_
+
+- #### [Hierarchical Quantized Autoencoders](https://proceedings.neurips.cc/paper/2020/hash/309fee4e541e51de2e41f21bebb342aa-Abstract.html) _Will Williams, Sam Ringer, Tom Ash, David MacLeod, Jamie Dougherty, John Hughes_
+
+- #### [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://proceedings.neurips.cc/paper/2020/hash/322f62469c5e3c7dc3e58f5a4d1ea399-Abstract.html) _Andrew G. Wilson, Pavel Izmailov_
+
+- #### [Probabilistic Circuits for Variational Inference in Discrete Graphical Models](https://proceedings.neurips.cc/paper/2020/hash/31784d9fc1fa0d25d04eae50ac9bf787-Abstract.html) _Andy Shih, Stefano Ermon_
+
+- #### [Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models](https://proceedings.neurips.cc/paper/2020/hash/32e54441e6382a7fbacbbbaf3c450059-Abstract.html) _Tom Heskes, Evi Sijben, Ioan Gabriel Bucur, Tom Claassen_
+
+- #### [AI Feynman 2.0: Pareto-optimal symbolic regression exploiting graph modularity](https://proceedings.neurips.cc/paper/2020/hash/33a854e247155d590883b93bca53848a-Abstract.html) _Silviu-Marian Udrescu, Andrew Tan, Jiahai Feng, Orisvaldo Neto, Tailin Wu, Max Tegmark_
+
+- #### [Domain Adaptation as a Problem of Inference on Graphical Models](https://proceedings.neurips.cc/paper/2020/hash/3430095c577593aad3c39c701712bcfe-Abstract.html) _Kun Zhang, Mingming Gong, Petar Stojanov, Biwei Huang, QINGSONG LIU, Clark Glymour_
+
+- #### [Causal Estimation with Functional Confounders](https://proceedings.neurips.cc/paper/2020/hash/36dcd524971019336af02550264b8a08-Abstract.html) _Aahlad Puli, Adler Perotte , Rajesh Ranganath_
+
+- #### [Learning Physical Constraints with Neural Projections](https://proceedings.neurips.cc/paper/2020/hash/37bc5e7fb6931a50b3464ec66179085f-Abstract.html) _Shuqi Yang, Xingzhe He, Bo Zhu_
+
+- #### [Generative causal explanations of black-box classifiers](https://proceedings.neurips.cc/paper/2020/hash/3a93a609b97ec0ab0ff5539eb79ef33a-Abstract.html) _Matthew O'Shaughnessy, Gregory Canal, Marissa Connor, Christopher Rozell, Mark Davenport_
+
+- #### [Latent World Models For Intrinsically Motivated Exploration](https://proceedings.neurips.cc/paper/2020/hash/3c09bb10e2189124fdd8f467cc8b55a7-Abstract.html) _Aleksandr Ermolov, Nicu Sebe_
+
+- #### [Learning of Discrete Graphical Models with Neural Networks](https://proceedings.neurips.cc/paper/2020/hash/3cc697419ea18cc98d525999665cb94a-Abstract.html) _Abhijith Jayakumar, Andrey Lokhov, Sidhant Misra, Marc Vuffray_
+
+- #### [Neuron Shapley: Discovering the Responsible Neurons](https://proceedings.neurips.cc/paper/2020/hash/41c542dfe6e4fc3deb251d64cf6ed2e4-Abstract.html) _Amirata Ghorbani, James Y. Zou_
+
+- #### [Deep Transformers with Latent Depth](https://proceedings.neurips.cc/paper/2020/hash/1325cdae3b6f0f91a1b629307bf2d498-Abstract.html) _Xian Li, Asa Cooper Stickland, Yuqing Tang, Xiang Kong_
+
+- #### [Information Theoretic Counterfactual Learning from Missing-Not-At-Random Feedback](https://proceedings.neurips.cc/paper/2020/hash/13f3cf8c531952d72e5847c4183e6910-Abstract.html) _Zifeng Wang, Xi Chen, Rui Wen, Shao-Lun Huang, Ercan Kuruoglu, Yefeng Zheng_
+
+- #### [Prophet Attention: Predicting Attention with Future Attention](https://proceedings.neurips.cc/paper/2020/hash/13fe9d84310e77f13a6d184dbf1232f3-Abstract.html) _Fenglin Liu, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun_
+
+- #### [Optimizing Neural Networks via Koopman Operator Theory](https://proceedings.neurips.cc/paper/2020/hash/169806bb68ccbf5e6f96ddc60c40a044-Abstract.html) _Akshunna S. Dogra, William Redman_
+
+- #### [Structured Prediction for Conditional Meta-Learning](https://proceedings.neurips.cc/paper/2020/hash/1b69ebedb522700034547abc5652ffac-Abstract.html) _Ruohan Wang, Yiannis Demiris, Carlo Ciliberto_
+
+- #### [Geometric All-way Boolean Tensor Decomposition](https://proceedings.neurips.cc/paper/2020/hash/1def1713ebf17722cbe300cfc1c88558-Abstract.html) _Changlin Wan, Wennan Chang, Tong Zhao, Sha Cao, Chi Zhang_
+
+- #### [What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation](https://proceedings.neurips.cc/paper/2020/hash/1e14bfe2714193e7af5abc64ecbd6b46-Abstract.html) _Vitaly Feldman, Chiyuan Zhang_
+
+- #### [A Universal Approximation Theorem of Deep Neural Networks for Expressing Probability Distributions](https://proceedings.neurips.cc/paper/2020/hash/2000f6325dfc4fc3201fc45ed01c7a5d-Abstract.html) _Yulong Lu, Jianfeng Lu_
+
+- #### [Compact task representations as a normative model for higher-order brain activity](https://proceedings.neurips.cc/paper/2020/hash/2109737282d2c2de4fc5534be26c9bb6-Abstract.html) _Severin Berger, Christian K. Machens_
+
+- #### [Complex Dynamics in Simple Neural Networks: Understanding Gradient Flow in Phase Retrieval](https://proceedings.neurips.cc/paper/2020/hash/2172fde49301047270b2897085e4319d-Abstract.html) _Stefano Sarao Mannelli, Giulio Biroli, Chiara Cammarota, Florent Krzakala, Pierfrancesco Urbani, Lenka Zdeborová_
+
+- #### [An operator view of policy gradient methods](https://proceedings.neurips.cc/paper/2020/hash/22eda830d1051274a2581d6466c06e6c-Abstract.html) _Dibya Ghosh, Marlos C. Machado, Nicolas Le Roux_
+
+- #### [Bidirectional Convolutional Poisson Gamma Dynamical Systems](https://proceedings.neurips.cc/paper/2020/hash/26178fc759d2b89c45dd31962f81dc61-Abstract.html) _wenchao chen, Chaojie Wang, Bo Chen, Yicheng Liu, Hao Zhang, Mingyuan Zhou_

@@ -1,7 +1,7 @@
 # Welcome to the CitAI knowledge base
 
 ## Table of contents
-### In this file:
+### In this markdown file:
 * [Artificial general intelligence](#artificial-general-intelligence)
 * [Associative learning](#associative-learning)
 * [Category theory in AI](#category-theory-in-ai)
@@ -12,7 +12,7 @@
 * [Representation learning](#representation-learning)
 * [Statistical methods in AI](#statistical-methods-in-ai)
 
-### In other files:
+### In other markdown files:
 * [Maths resources](./Knowledge/maths.md)
     * Category theory
     * Grouplike structures

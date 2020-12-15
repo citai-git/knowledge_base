@@ -20,14 +20,14 @@
 [Neurips2020](#neurips2020)
 
 
-<a name="artificial-general-intelligence"/>
+<a name="artificial_general_intelligence"/></a>
 ## Artificial general intelligence
 
 
 
 
 
-<a name="associative-learning"/>
+<a name="associative-learning"/></a>
 ## Associative learning
 
 
@@ -36,7 +36,7 @@
 
 
 
-<a name="category-theory-in-ai"/>
+<a name="category-theory-in-ai"/></a>
 ## Category theory in AI
 
 
@@ -45,17 +45,17 @@
 
 
 
-<a name="deep-learning"/>
+<a name="deep-learning"/></a>
 ## Deep learning
 
 
 
 
 
-<a name="free-energy-principle"/>
+<a name="free-energy-principle"/></a>
 ## Free Energy Principle
 
-#### [Action and Perception as Divergence Minimization](https://arxiv.org/abs/2009.01791)
+### [Action and Perception as Divergence Minimization](https://arxiv.org/abs/2009.01791)
 
 **authors:** Danijar Hafner, Pedro A. Ortega, Jimmy Ba, Thomas Parr, Karl Friston, Nicolas Heess.
 
@@ -66,14 +66,13 @@
 
 
 
-
-<a name="medical-imaging"/>
+<a name="medical-imaging"/></a>
 ## Medical imagining
 
 
 
 
-<a name="reinforcement-learning"/>
+<a name="reinforcement-learning"/></a>
 ## Reinforcement learning
 
 
@@ -82,14 +81,14 @@
 
 
 
-<a name="representation-learning"/>
+<a name="representation-learning"/></a>
 ## Representation learning
 
 
 
 
 
-<a name="statistical-methods-in-ai"/>
+<a name="statistical-methods-in-ai"/></a>
 ## Statistical methods in AI
 
 
@@ -97,12 +96,12 @@
 
 
 
-<a name="maths"/>
+<a name="maths"/></a>
 ## Maths
 
 
 
-<a name="category-theory"/>
+<a name="category-theory"/></a>
 ### Category theory
 
 
@@ -111,14 +110,14 @@
 
 
 
-<a name="grouplike-structures"/>
+<a name="grouplike-structures"/></a>
 ### Grouplike structures
 
 
 
 
 
-<a name="neurips2020"/>
+<a name="neurips2020"/></a>
 ## NEURIPS 2020 papers
 
 ### Graphs
